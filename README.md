@@ -19,7 +19,7 @@ https://message-mate.onrender.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  git clone https://github.com/bhoomikadhaka/MessageMate
 ```
 
 Go to the project directory
