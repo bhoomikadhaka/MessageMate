@@ -16,7 +16,7 @@ https://message-mate.onrender.com/
 
 ## Run Locally
 
-Clone the project
+Clone the project: https://github.com/bhoomikadhaka/MessageMate
 
 ```bash
   git clone https://github.com/bhoomikadhaka/MessageMate
